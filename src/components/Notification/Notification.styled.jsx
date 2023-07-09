@@ -6,5 +6,5 @@ export const NotificationContainer = styled.div`
 `;
 export const NotificationText = styled.p`
   margin: 0;
-  color: crimson;
+  color: red;
 `;
